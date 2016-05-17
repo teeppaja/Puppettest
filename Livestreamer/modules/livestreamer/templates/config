@@ -1,0 +1,1 @@
+player=vlc --play-and-stop --qt-minimal-view --no-keyboard-events

@@ -1,0 +1,8 @@
+In this miniproject we install
+- VLC
+- Python-pip, which is needed for installing Livestreamer
+- Livestreamer
+and add a small configuration file from a template.
+
+With Livestreamer you can watch streams (e.g from Twitch, Youtube Live) in your favourite media player.
+Running the Livestreamer module installs also VLC and pip, so running all three modules is not necessary.
